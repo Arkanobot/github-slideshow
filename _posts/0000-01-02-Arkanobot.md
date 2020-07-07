@@ -1,6 +1,6 @@
 ---
 Layout: Slide
-Text: Welcome to our new Slide
+Title: Welcome to our new Slide
 ---
-Hello,
+_"Knowledge, Honor, Repsect."_
 Trying to learn Github #newbie
